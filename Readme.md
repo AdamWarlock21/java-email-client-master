@@ -1,6 +1,8 @@
 #EMAIL SMTP CLIENT
 this application is intended to send, recieve, delete and sort emails from a dummy smtp email account
 
+Run this application using IntelliJ
+
 #INSTRUCTIONS
 Run the EmailClient.java file after successful build
 when prompted for login details enter the following:
